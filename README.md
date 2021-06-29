@@ -23,11 +23,6 @@
   </a>
 
   <br>
-  <hr>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixgilioli">
-  
-  <br>
   <br>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=felixgilioli&show_icons=true">
