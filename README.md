@@ -4,7 +4,7 @@
 
   # Oi, meu nome é Felix! 👋
 
-  Estou a 6 anos trabalhando com desenvolvimento de software, gosto muito de programar e de lidar com arquitetura de sistemas, busco estar sempre estudando e contribuindo com projetos Open Source.
+  Tenho mais de 10 anos de experiência em desenvolvimento de software, com grande paixão por programação e arquitetura de sistemas. Estou sempre em busca de aprendizado contínuo, explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e bem estruturadas.
 
   <a href="https://www.linkedin.com/in/felixgilioli/" target="_blank">
     <img src="img/linkedin.png" width="30">
